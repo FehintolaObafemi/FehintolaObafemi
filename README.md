@@ -1,6 +1,6 @@
 Hello and welcome to my space.
 
-My website can be accessed through www.fehintolaobafemi.com.
+My professional website can be accessed through www.fehintolaobafemi.com.
 
 My photography portfolio can be accessed through www.fobafemi.com
 <!---

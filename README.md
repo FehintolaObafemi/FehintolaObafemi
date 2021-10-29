@@ -1,9 +1,37 @@
-Hello and welcome to my space.
+![til](introgif.gif)
 
-My professional website can be accessed through www.fehintolaobafemi.com.
-
-My photography portfolio can be accessed through www.fobafemi.com
 <!---
 FehintolaObafemi/FehintolaObafemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Hello and welcome to my space.
+
+- 🔭 I’m currently working on a fullstack forum web app
+- 🌱 I’m currently learning TypeScript
+- 👯 I’m looking to collaborate on a new exciting project
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love plants.
+
+ 
+## 📫 How to reach me
+
+<a href="https://www.linkedin.com/in/taofeek-obafemi-babatunde/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.fehintolaobafemi.com">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.fobafemi.com">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+## Random Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
+
+##
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=riz1-lv.riz1-lv&color=<success>" alt="visitor badge"/>
+</p>

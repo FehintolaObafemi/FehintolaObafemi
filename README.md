@@ -7,13 +7,15 @@ You can click the Preview link to take a look at your changes.
 
 Hello and welcome to my space.
 
-- 🔭 I’m currently working on a fullstack forum web app
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently pursuing my masters in advanced computing
+- 🌱 I’m currently learning TypeScript and PowerShell
 - 👯 I’m looking to collaborate on a new exciting project
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love plants.
+- ⚡ Fun fact: I love plants and cats.
 
- 
+
+
+
 ## 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/taofeek-obafemi-babatunde/">

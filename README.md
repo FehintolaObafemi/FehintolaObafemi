@@ -27,7 +27,7 @@ Hello and welcome to my space.
 </a>
 
 <a href="https://www.fobafemi.com">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/PP-photography--portfolio-brightgreen" />
 </a>
 
 ## Random Joke

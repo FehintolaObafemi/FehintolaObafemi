@@ -1,4 +1,4 @@
-![til](introgif.gif)
+![til](intro.gif)
 
 <!---
 FehintolaObafemi/FehintolaObafemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

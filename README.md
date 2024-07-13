@@ -26,7 +26,7 @@ Hello and welcome to my space.
     <img src="https://img.shields.io/badge/PW-personal--website-blue" />
 </a>
 
-<a href="https://www.fobafemi.com">
+<a href="https://fehintola.netlify.app">
     <img src="https://img.shields.io/badge/PP-photography--portfolio-brightgreen" />
 </a>
 

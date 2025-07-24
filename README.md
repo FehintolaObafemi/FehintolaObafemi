@@ -29,11 +29,3 @@ Hello and welcome to my space.
 <a href="https://fehintola.netlify.app">
     <img src="https://img.shields.io/badge/PP-photography--portfolio-brightgreen" />
 </a>
-
-## Random Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
-
-##
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=fehintolaobafemi.fehintolaobafemi-lv&color=<success>" alt="visitor badge"/>
-</p>

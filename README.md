@@ -7,15 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 Hello and welcome to my space.
 
-- 🔭 I’m currently pursuing my masters in advanced computing
-- 🌱 I’m currently learning TypeScript and PowerShell
-- 👯 I’m looking to collaborate on a new exciting project
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love plants and cats.
-
-
-
-
 ## 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/taofeek-obafemi-babatunde/">
@@ -24,8 +15,4 @@ Hello and welcome to my space.
 
 <a href="https://www.fehintolaobafemi.com">
     <img src="https://img.shields.io/badge/PW-personal--website-blue" />
-</a>
-
-<a href="https://fehintola.netlify.app">
-    <img src="https://img.shields.io/badge/PP-photography--portfolio-brightgreen" />
 </a>
